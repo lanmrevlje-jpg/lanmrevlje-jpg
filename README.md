@@ -7,8 +7,6 @@ ne vem kaj počnem😎
 
 <br>
 
-# 🛠️ Tech Stack:
-
 ## 🔤 Programing Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
