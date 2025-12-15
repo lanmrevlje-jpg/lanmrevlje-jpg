@@ -1,10 +1,7 @@
 
 # Opis
-to je test
-ne vem kaj počnem😎
+
 ## 📚 Currently learning:
-
-
 <br>
 
 ## 🔤 Programing Languages:
